@@ -2,6 +2,6 @@
 
 Some explanation.
 
-# New Subheading
+## New Subheading
 
 I added a new sub heading
